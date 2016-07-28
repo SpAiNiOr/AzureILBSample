@@ -1,5 +1,5 @@
 # How to create Internal Load Balancer for PaaS Cloud Service
----
+
 ## Introduction
 Sometime, we want only allow cloud service be accessed within a virtual network. Or we want access cloud service by static IP within a virtual network.
 This example is to help you configure Internal Load Balancer for web role. This ILB can be also used with worker role. And in this sample, we will be binding an ILB with port 8080 for web role.
