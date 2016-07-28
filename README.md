@@ -78,19 +78,19 @@ Add above configuration under last  __&lt;/ Role>__.
 
 Right click cloud service project and choose “Publish…” command.
 
-![1](https://github.com/SpAiNiOr/AzureILBSample/Images/1.jpg)
+![1](https://github.com/SpAiNiOr/AzureILBSample/blob/master/Images/1.jpg)
 
 Choose or create an Cloud Service.
 
-![2](https://github.com/SpAiNiOr/AzureILBSample/Images/2.jpg)
+![2](https://github.com/SpAiNiOr/AzureILBSample/blob/master/Images/2.jpg)
 
 Choose or create an Storage Account
 
-![3](https://github.com/SpAiNiOr/AzureILBSample/Images/3.jpg)
+![3](https://github.com/SpAiNiOr/AzureILBSample/blob/master/Images/3.jpg)
 
 Then Publish
 
-![4](https://github.com/SpAiNiOr/AzureILBSample/Images/4.jpg)
+![4](https://github.com/SpAiNiOr/AzureILBSample/blob/master/Images/4.jpg)
 
 __How to verify?__ 
 
